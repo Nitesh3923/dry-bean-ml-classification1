@@ -39,12 +39,15 @@ st.write(
 # -------------------------------------------------
 
 MODEL_FILES = {
-    "Logistic Regression": "model/logistic_regression.joblib",
-    "Decision Tree": "model/decision_tree.joblib",
-    "KNN": "model/knn.joblib",
-    "Naive Bayes": "model/naive_bayes.joblib",
-    "Support Vector Machine":
-        "model/support_vector_machine.joblib"
+    "Logistic Regression": "logistic_regression.joblib",
+    "Decision Tree": "decision_tree.joblib",
+    "KNN": "knn.joblib",
+    "Naive Bayes": "naive_bayes.joblib",
+    "Support Vector Machine": "support_vector_machine.joblib"
+}
+
+LABEL_ENCODER_FILE = "label_encoder.joblib"
+FEATURE_NAMES_FILE = "feature_names.joblib"
 }
 
 LABEL_ENCODER_FILE = "model/label_encoder.joblib"
