@@ -48,7 +48,6 @@ MODEL_FILES = {
 
 LABEL_ENCODER_FILE = "label_encoder.joblib"
 FEATURE_NAMES_FILE = "feature_names.joblib"
-}
 
 LABEL_ENCODER_FILE = "model/label_encoder.joblib"
 FEATURE_NAMES_FILE = "model/feature_names.joblib"
