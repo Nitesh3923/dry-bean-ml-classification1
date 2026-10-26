@@ -134,7 +134,7 @@ the overall winner.
 
 Live Streamlit Application:
 
-**To be added after deployment**
+**https://dry-bean-ml-classification-n2tus4kckpw9d27zxm9vra.streamlit.app/**
 
 The Streamlit application provides:
 
